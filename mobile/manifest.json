@@ -1,0 +1,16 @@
+{
+  "name": "대흥기업 현장노트",
+  "short_name": "현장노트",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f2f5f1",
+  "theme_color": "#086b54",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
